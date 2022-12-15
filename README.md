@@ -1,5 +1,5 @@
 # Statistical-Data-Mining-I
-Group-12
+Group 12
 
 Abstract
 
