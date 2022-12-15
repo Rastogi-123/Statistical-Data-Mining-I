@@ -1,5 +1,4 @@
-# Statistical-Data-Mining-I
-Group 12
+# Analysis of Flight Delays
 
 Abstract
 
